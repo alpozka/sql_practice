@@ -1,0 +1,4 @@
+--SELECT * FROM film WHERE replacement_cost BETWEEN  12.99 AND 16.98; --Q.1
+--SELECT  first_name,last_name FROM actor WHERE first_name ='Penelope' OR first_name ='Nick' OR first_name ='Ed';--Q.2
+--SELECT * FROM film WHERE rental_rate IN (0.99,2.99,4.99) AND replacement_cost IN (12.99, 15.99, 28.99); --Q.3
+--ALP OZKAN
