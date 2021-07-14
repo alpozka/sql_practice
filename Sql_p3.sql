@@ -1,0 +1,5 @@
+--SELECT country FROM country WHERE country LIKE 'A%a';  --Q.1
+--SELECT country FROM country WHERE country LIKE '_____%n';  --Q.2
+--SELECT title FROM film WHERE title ILIKE '%tttt%'; --Q.3
+--SELECT * FROM film WHERE title LIKE 'C%' AND length>90 AND rental_rate = 2.99; --Q.4
+--ALP OZKAN
