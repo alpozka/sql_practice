@@ -1,0 +1,6 @@
+--SELECT DISTINCT replacement_cost From film; --Q.1
+--SELECT COUNT(DISTINCT replacement_cost) From film; --Q.2
+--SELECT * FROM film WHERE rating ='G' AND title LIKE 'T%' ; --Q.3
+--SELECT COUNT(country) FROM country WHERE country LIKE '_____'; --Q.4
+--SELECT city FROM city WHERE city ILIKE '%R'; --Q.5
+--ALP OZKAN
